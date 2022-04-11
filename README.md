@@ -15,6 +15,8 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 
 ## Overview
 
+On this challenge I used for the first time Keyframes and I'm very excited about it.
+
 Improvement suggestion are welcomed!
 
 ### Screenshot
@@ -26,7 +28,7 @@ Improvement suggestion are welcomed!
 
 ### Links 
 
-[Live Site](##)
+[Live Site](https://mateus-lr.github.io/Stats-preview-card-component/)
 
 ### Built with
 
